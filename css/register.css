@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.register {
+    width: 500px;
+    height: 1000px;
+    margin: 30px auto;
+}
+
+.register ul {
+    margin-bottom: 30px;
+}
+
+.register p li {
+    width: 200px;
+    height: 20px;
+}
+
+.register h1 {
+    font-size: 24px;
+}
+
+.reg_div {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 200px;
+    background-color: #ffffff;
+}
+
+.red_button {
+    width: 100x;
+    height: 20px;
+    margin: 15px 50px
+}
+
+.reg_password {
+    margin: 0px 13px;
+    width: 200px;
+    height: 20px;
+}
+
+.reg_confirm {
+    margin: 0px -10px;
+    width: 200px;
+    height: 20px;
+}
+
+.reg_mobile {
+    margin: 0px -10px;
+    width: 200px;
+    height: 20px;
+}
+
+.reg_ul span {
+    font-family: 15;
+    width: 200px;
+    height: 20px;
+}
+
+.text {
+    width: 200px;
+    height: 20px;
+}
+
+.reg_user {
+    width: 200px;
+    height: 20px;
+}
